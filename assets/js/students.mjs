@@ -271,5 +271,5 @@ export const students = [
         value: "bi bi-patch-minus-fill"
       }
     ]
-  },
+  }
 ];
