@@ -5,6 +5,9 @@
 **Information :**
 - Roster Cards
 
+**Repo :** [Github Repo](https://github.com/FesalBadday/roster-cards)
+
+**Site :** [Github Pages](https://FesalBadday.github.io/roster-cards)
 ---
 
 ## Attributions :
