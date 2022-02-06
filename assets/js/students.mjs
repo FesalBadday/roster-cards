@@ -11,12 +11,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -45,12 +49,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -79,12 +87,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -113,12 +125,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -147,12 +163,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -181,12 +201,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -215,12 +239,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [
@@ -249,12 +277,16 @@ export const students = [
         link: "https://github.com/"
       },
       {
-        name: "codepen",
-        link: "https://codepen.io/"
+        name: "twitter",
+        link: "https://twitter.com/"
       },
       {
         name: "linkedin",
         link: "https://www.linkedin.com/in/"
+      },
+      {
+        name: "facebook",
+        link: "https://www.facebook.com/"
       }
     ],
     badges: [

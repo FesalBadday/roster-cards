@@ -6,7 +6,7 @@ import { students } from './students.mjs';
 const getSocialMedia = (getSocialMedia) => {
   let data = '';
   getSocialMedia.forEach((socialMedia) => {
-    data += `<a href="${socialMedia.link}" target="_blank"><i class="bi bi-github"></i></a>`;
+    data += `<a href="${socialMedia.link}" target="_blank"><i class="bi bi-${socialMedia.name}"></i></a>`;
   });
   return data;
 };
