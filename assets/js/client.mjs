@@ -6,7 +6,7 @@ import { staff } from './staff.mjs';
 staff.forEach(profile => {
   document.querySelector('.container').innerHTML +=
     `<div class="card">
-      <div class="lines"></div>
+      <div class="line"></div>
       <div class="profile">
         <img src="${profile.img}" alt="${profile.name}">
       </div>
