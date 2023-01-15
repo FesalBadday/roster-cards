@@ -23,14 +23,14 @@ body {
   transition: .5s;
 }
 
-.card .lines {
+.card .line {
   position: absolute;
   inset: 0;
   background: #000000;
   overflow: hidden;
 }
 
-.card .lines::before {
+.card .line::before {
   content: '';
   position: absolute;
   top: 50%;
@@ -42,11 +42,12 @@ body {
   animation-direction: alternate;
 }
 
-.card .lines::after {
+.card .line::after {
   content: '';
   position: absolute;
   inset: 3px;
   background: #292929;
+  border-radius: 2rem;
 }
 
 .card .profile {
@@ -80,6 +81,7 @@ body {
   position: absolute;
   inset: 3px;
   background: #292929;
+  border-radius: 2rem;
 }
 
 .card .profile img {
@@ -87,6 +89,7 @@ body {
   width: 194px;
   z-index: 1;
   opacity: .6;
+  border-radius: 2rem;
 }
 
 .card .content {
