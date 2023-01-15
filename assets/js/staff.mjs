@@ -1,307 +1,43 @@
-// export students module
-export const students = [
+// export staff module
+export const staff = [
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=1"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=2"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=3"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=4"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=5"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=6"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=7"
   },
   {
-    studentName: 'Name Here',
-    bio: 'Bio - write anything you want',
-    favLang: 'I like JavaScript',
-    img: "img.png",
-    socialMedia: [
-      {
-        name: "github",
-        link: "https://github.com/"
-      },
-      {
-        name: "twitter",
-        link: "https://twitter.com/"
-      },
-      {
-        name: "linkedin",
-        link: "https://www.linkedin.com/in/"
-      },
-      {
-        name: "facebook",
-        link: "https://www.facebook.com/"
-      }
-    ],
-    badges: [
-      {
-        name: "badge 1",
-        value: "bi bi-patch-question-fill"
-      },
-      {
-        name: "badge 2",
-        value: "bi bi-patch-exclamation-fill"
-      },
-      {
-        name: "badge 3",
-        value: "bi bi-patch-minus-fill"
-      }
-    ]
+    name: 'Name Here',
+    bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam ratione provident quod distinctio corrupti a animi quisquam vitae, ab, dolor illum neque et.',
+    img: "https://picsum.photos/200?grayscale&random=8"
   }
 ];
